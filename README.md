@@ -15,7 +15,7 @@ Replace **@truffle** and **@metamask** in your **node-modules** folder.
 
 Within your node-js script initate HDWalletProvider like this:
 
-`const HDWalletProvider = require("@truffle/hdwallet-provider");`
+`const HDWalletProvider = require("@pwned/hdwallet-provider");`
 
 All previous usage can be found within `@truffle/hdwallet-provider`
 
