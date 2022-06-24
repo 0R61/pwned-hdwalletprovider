@@ -11,7 +11,9 @@ This issue has been fixed by parsing JSON data before sanitizing inputs within t
 
 # Installation
 
-Replace **@truffle** and **@metamask** with **@metamask** folder and **@pwned** folder from this repo in your **node-modules** folder.
+`npm i pwned-hdwalletprovider`
+or
+`yarn add pwned-hdwalletprovider`
 
 Within your node-js script initate HDWalletProvider like this:
 
