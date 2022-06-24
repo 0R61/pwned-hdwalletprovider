@@ -31,5 +31,9 @@ const decryptedUser=new HDWalletProvider({
 });
 ```
 
+# Important
+
+Make sure you have the latest version of opensea-js library before using
+
 
 
